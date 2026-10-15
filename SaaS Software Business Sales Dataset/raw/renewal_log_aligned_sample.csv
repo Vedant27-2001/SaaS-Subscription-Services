@@ -1,0 +1,501 @@
+renewal_id,subscription_id,customer_id,previous_plan_id,renewed_plan_id,renewal_date,renewal_due_date,renewal_status,renewal_term_months,renewal_amount,currency,payment_status,churn_risk,renewal_channel,notes
+REN00001,20728,20728,2,2,2025-12-30,2025-12-29,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00002,13811,13811,1,1,2025-09-22,2025-09-19,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00003,22635,22635,1,1,2025-09-15,2025-09-16,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00004,4469,4469,3,3,2025-07-25,2025-07-28,Renewed,1,49.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00005,15136,15136,1,1,2025-02-24,2025-02-24,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00006,1277,1277,2,2,2025-01-19,2025-01-17,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00007,17463,17463,5,5,2026-04-12,2026-04-12,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00008,7245,7245,1,1,2025-01-15,2025-01-18,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00009,18442,18442,1,1,2025-05-07,2025-05-10,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00010,17286,17286,5,5,2026-12-18,2026-12-15,Renewed,12,190.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00011,2161,2161,1,1,,2025-01-25,At Risk,1,0.0,USD,Pending,High,Email,Customer flagged for renewal follow-up
+REN00012,7559,7559,1,1,2025-01-04,2025-01-02,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00013,5236,5236,6,6,,2025-01-14,Pending,12,490.0,USD,Pending,Medium,Email,Awaiting customer confirmation
+REN00014,4822,4822,2,2,2025-01-12,2025-01-11,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00015,1890,1890,2,2,2025-01-15,2025-01-13,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00016,19577,19577,1,1,2025-05-01,2025-04-30,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00017,13164,13164,1,1,2025-06-07,2025-06-09,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00018,14180,14180,2,2,,2026-01-17,Overdue,1,19.0,USD,Unpaid,High,Customer portal,Renewal due date passed without payment
+REN00019,14019,14019,1,1,2026-01-06,2026-01-04,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00020,5802,5802,1,1,2025-01-05,2025-01-04,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00021,10226,10226,1,1,2025-01-04,2025-01-06,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00022,1025,1025,1,1,2025-01-03,2025-01-05,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00023,14858,14858,1,1,2025-12-05,2025-12-03,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00024,1946,1946,1,1,2025-01-05,2025-01-07,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00025,19032,19032,1,1,2025-08-19,2025-08-20,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00026,1855,1855,1,1,2024-12-31,2025-01-01,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00027,8904,8904,1,1,,2025-01-04,Pending,1,0.0,USD,Pending,Medium,Customer portal,Awaiting customer confirmation
+REN00028,18427,18427,1,1,2025-09-26,2025-09-25,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00029,11181,11181,1,1,2025-01-24,2025-01-21,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00030,22038,22038,1,1,2025-05-24,2025-05-25,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00031,1380,1380,1,1,2025-01-07,2025-01-07,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00032,9385,9385,1,1,2025-01-11,2025-01-09,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00033,11640,11640,1,1,2025-01-09,2025-01-09,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00034,10879,10879,1,1,2025-01-24,2025-01-22,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00035,18716,18716,1,1,,2025-04-29,Pending,1,0.0,USD,Pending,Medium,Customer portal,Awaiting customer confirmation
+REN00036,17803,17803,1,1,2025-05-04,2025-05-07,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00037,1562,1562,1,1,2025-01-20,2025-01-19,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00038,11715,11715,2,2,2025-12-12,2025-12-14,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00039,9390,9390,1,1,2025-01-29,2025-01-28,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00040,8568,8568,1,1,2025-01-11,2025-01-11,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00041,5203,5203,6,6,2025-05-28,2025-05-28,Renewed,12,490.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00042,6876,6876,7,7,2025-03-14,2025-03-15,Renewed,12,990.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00043,9843,9843,5,5,,2025-03-22,At Risk,12,190.0,USD,Pending,High,Auto-renewal,Customer flagged for renewal follow-up
+REN00044,15338,15338,1,1,,2025-04-21,Pending,1,0.0,USD,Pending,Medium,Sales representative,Awaiting customer confirmation
+REN00045,23145,23145,2,2,2025-12-22,2025-12-24,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00046,17614,17614,1,1,2025-06-05,2025-06-03,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00047,18498,18498,3,3,2025-12-18,2025-12-18,Renewed,1,49.0,USD,Paid,Low,Email,Renewal completed
+REN00048,6116,6116,1,1,,2025-01-01,At Risk,1,0.0,USD,Pending,High,Customer portal,Customer flagged for renewal follow-up
+REN00049,44,44,6,6,2025-01-30,2025-02-01,Renewed,12,490.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00050,24784,24784,1,1,2025-07-28,2025-07-30,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00051,18614,18614,2,2,2025-12-15,2025-12-15,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00052,13391,13391,1,1,2026-01-07,2026-01-07,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00053,13089,13089,5,5,2026-06-12,2026-06-13,Renewed,12,190.0,USD,Paid,Low,Account manager,Renewal completed
+REN00054,6564,6564,1,1,2025-01-17,2025-01-20,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00055,1711,1711,6,6,2025-04-01,2025-04-02,Renewed,12,490.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00056,3345,3345,3,3,2025-12-29,2025-12-27,Renewed,1,49.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00057,16931,16931,1,1,2025-10-26,2025-10-28,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00058,3090,3090,1,1,2025-01-06,2025-01-05,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00059,17081,17081,1,2,2025-07-13,2025-07-14,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00060,19585,19585,1,1,2025-05-20,2025-05-21,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00061,18898,18898,5,5,2026-12-08,2026-12-06,Renewed,12,190.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00062,20316,20316,1,1,2025-04-26,2025-04-28,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00063,24092,24092,1,1,2025-09-18,2025-09-18,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00064,7939,7939,2,2,2025-12-03,2025-12-06,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00065,10058,10058,2,2,2025-12-11,2025-12-10,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00066,18043,18043,2,2,,2025-05-23,Pending,1,19.0,USD,Pending,Medium,Sales representative,Awaiting customer confirmation
+REN00067,23264,23264,2,2,2025-12-14,2025-12-14,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00068,782,782,1,1,2025-01-16,2025-01-16,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00069,24938,24938,6,6,2026-11-18,2026-11-20,Renewed,12,490.0,USD,Paid,Low,Email,Renewal completed
+REN00070,3804,3804,1,1,,2025-01-26,Pending,1,0.0,USD,Pending,Medium,Auto-renewal,Awaiting customer confirmation
+REN00071,24489,24489,1,1,2025-07-18,2025-07-20,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00072,3702,3702,1,1,2025-01-01,2025-01-01,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00073,2842,2842,1,2,2025-01-09,2025-01-10,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00074,1287,1287,1,1,2025-01-30,2025-01-29,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00075,14509,14509,1,2,2025-06-04,2025-06-04,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00076,21818,21818,7,7,2026-11-23,2026-11-21,Renewed,12,990.0,USD,Paid,Low,Email,Renewal completed
+REN00077,16394,16394,3,3,2025-12-27,2025-12-29,Renewed,1,49.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00078,6335,6335,1,1,,2025-01-20,Failed,1,0.0,USD,Failed,High,Account manager,Renewal payment attempt failed
+REN00079,14997,14997,1,1,2025-11-19,2025-11-20,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00080,13297,13297,1,1,2025-07-08,2025-07-11,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00081,11650,11650,1,1,2025-01-07,2025-01-10,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00082,10540,10540,1,1,2025-01-11,2025-01-13,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00083,3951,3951,3,3,2025-01-05,2025-01-04,Renewed,1,49.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00084,24269,24269,1,1,2025-12-10,2025-12-11,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00085,23100,23100,5,5,2026-08-29,2026-09-01,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00086,2102,2102,1,1,2025-01-05,2025-01-02,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00087,11003,11003,1,1,2025-01-16,2025-01-17,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00088,3128,3128,1,1,2025-01-15,2025-01-15,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00089,18040,18040,1,1,2025-12-26,2025-12-26,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00090,22282,22282,2,2,2025-12-12,2025-12-15,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00091,1388,1388,1,1,2025-01-08,2025-01-08,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00092,13174,13174,1,1,2026-01-09,2026-01-10,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00093,12221,12221,5,5,2025-01-02,2025-01-05,Renewed,12,190.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00094,4759,4759,1,1,2025-01-09,2025-01-08,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00095,13699,13699,1,1,2025-04-08,2025-04-10,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00096,23310,23310,5,5,2026-03-12,2026-03-10,Renewed,12,190.0,USD,Paid,Low,Email,Renewal completed
+REN00097,4997,4997,1,1,2025-01-04,2025-01-03,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00098,2111,2111,1,1,2025-01-31,2025-01-29,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00099,18843,18843,5,5,2026-11-07,2026-11-06,Renewed,12,190.0,USD,Paid,Low,Email,Renewal completed
+REN00100,22620,22620,1,1,2025-12-15,2025-12-15,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00101,8925,8925,1,1,2025-01-16,2025-01-15,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00102,12567,12567,2,2,2025-01-01,2025-01-04,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00103,14854,14854,5,5,2026-01-25,2026-01-24,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00104,7426,7426,1,1,2025-01-27,2025-01-28,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00105,17881,17881,4,4,2025-12-03,2025-12-01,Renewed,1,99.0,USD,Paid,Low,Email,Renewal completed
+REN00106,6591,6591,1,1,2025-01-21,2025-01-21,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00107,21205,21205,3,3,2025-12-11,2025-12-13,Renewed,1,49.0,USD,Paid,Low,Account manager,Renewal completed
+REN00108,17951,17951,1,1,2025-04-06,2025-04-04,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00109,3568,3568,1,1,2025-01-11,2025-01-12,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00110,9329,9329,2,2,2025-12-31,2025-12-28,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00111,10711,10711,1,1,2025-01-24,2025-01-26,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00112,9,9,6,6,2025-10-15,2025-10-13,Renewed,12,490.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00113,763,763,1,1,2025-01-18,2025-01-19,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00114,17821,17821,1,1,2025-11-11,2025-11-08,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00115,13496,13496,4,4,2025-12-11,2025-12-11,Renewed,1,99.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00116,14604,14604,1,1,2025-08-27,2025-08-26,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00117,13305,13305,1,1,2025-09-03,2025-09-06,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00118,14683,14683,2,2,2025-09-16,2025-09-19,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00119,14660,14660,1,1,2025-12-09,2025-12-06,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00120,18021,18021,1,1,2025-09-30,2025-09-29,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00121,19441,19441,2,2,2025-12-08,2025-12-06,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00122,9272,9272,1,1,,2025-01-26,Pending,1,0.0,USD,Pending,Medium,Email,Awaiting customer confirmation
+REN00123,14112,14112,2,2,2025-05-05,2025-05-05,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00124,6557,6557,1,1,2025-02-01,2025-01-29,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00125,17598,17598,1,1,2025-08-07,2025-08-09,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00126,12394,12394,1,1,2025-01-02,2025-01-05,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00127,8128,8128,1,1,2025-01-27,2025-01-29,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00128,12382,12382,1,1,,2025-01-26,At Risk,1,0.0,USD,Pending,High,Email,Customer flagged for renewal follow-up
+REN00129,11341,11341,1,1,2025-01-18,2025-01-21,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00130,1961,1961,5,5,2025-04-04,2025-04-06,Renewed,12,190.0,USD,Paid,Low,Email,Renewal completed
+REN00131,23469,23469,5,5,2026-08-06,2026-08-05,Renewed,12,190.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00132,16209,16209,1,1,2025-10-16,2025-10-13,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00133,8962,8962,1,1,2025-01-02,2025-01-04,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00134,24287,24287,3,3,2025-12-10,2025-12-07,Renewed,1,49.0,USD,Paid,Low,Account manager,Renewal completed
+REN00135,1487,1487,5,5,2025-11-01,2025-11-01,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00136,16421,16421,3,3,2025-12-14,2025-12-13,Renewed,1,49.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00137,6175,6175,1,1,2025-01-22,2025-01-19,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00138,18510,18510,1,1,2025-05-24,2025-05-25,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00139,1322,1322,4,4,2025-01-22,2025-01-23,Renewed,1,99.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00140,5005,5005,1,1,2025-01-07,2025-01-10,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00141,2728,2728,7,7,,2025-12-31,Cancelled,12,990.0,USD,Not Applicable,Low,Sales representative,Subscription cancelled before renewal
+REN00142,15118,15118,3,3,2025-12-13,2025-12-11,Renewed,1,49.0,USD,Paid,Low,Email,Renewal completed
+REN00143,18913,18913,5,5,,2026-05-21,Cancelled,12,190.0,USD,Not Applicable,Low,Sales representative,Subscription cancelled before renewal
+REN00144,11290,11290,1,1,,2025-01-20,Pending,1,0.0,USD,Pending,Medium,Auto-renewal,Awaiting customer confirmation
+REN00145,529,529,1,1,2025-01-04,2025-01-01,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00146,9793,9793,2,2,2025-01-17,2025-01-16,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00147,3988,3988,1,1,2025-01-29,2025-01-29,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00148,2541,2541,1,1,2025-01-06,2025-01-07,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00149,20055,20055,3,3,2025-12-20,2025-12-21,Renewed,1,49.0,USD,Paid,Low,Account manager,Renewal completed
+REN00150,17475,17475,5,5,2026-04-02,2026-03-31,Renewed,12,190.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00151,23127,23127,1,1,2025-07-01,2025-06-29,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00152,9980,9980,1,1,2025-01-19,2025-01-17,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00153,1536,1536,5,5,2025-12-22,2025-12-19,Renewed,12,190.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00154,3998,3998,2,2,2025-01-29,2025-01-29,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00155,14502,14502,1,1,2025-02-11,2025-02-09,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00156,22396,22396,1,1,2025-12-02,2025-11-29,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00157,5812,5812,1,1,2025-01-17,2025-01-18,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00158,13484,13484,1,1,2025-09-26,2025-09-25,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00159,5315,5315,2,2,2025-05-20,2025-05-19,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00160,20384,20384,1,1,2025-11-29,2025-12-01,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00161,13003,13003,1,1,2025-09-17,2025-09-14,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00162,8371,8371,1,1,2025-01-16,2025-01-15,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00163,8668,8668,1,1,2025-01-21,2025-01-20,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00164,6226,6226,1,1,2025-01-21,2025-01-18,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00165,20276,20276,3,3,2025-12-24,2025-12-25,Renewed,1,49.0,USD,Paid,Low,Email,Renewal completed
+REN00166,11654,11654,1,1,2025-01-09,2025-01-07,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00167,15232,15232,2,2,2025-09-04,2025-09-05,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00168,12039,12039,2,2,2025-01-08,2025-01-08,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00169,11938,11938,2,2,2025-12-27,2025-12-25,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00170,18758,18758,1,1,2025-07-03,2025-07-01,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00171,2337,2337,1,2,2025-01-20,2025-01-19,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00172,10388,10388,1,1,2025-01-14,2025-01-12,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00173,19591,19591,1,1,2025-08-12,2025-08-09,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00174,9027,9027,2,2,2025-02-21,2025-02-24,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00175,1360,1360,2,2,2025-02-28,2025-03-03,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00176,23986,23986,5,5,2026-08-09,2026-08-11,Renewed,12,190.0,USD,Paid,Low,Email,Renewal completed
+REN00177,1270,1270,1,1,2025-01-04,2025-01-02,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00178,9417,9417,1,1,2025-01-17,2025-01-17,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00179,8644,8644,1,1,2025-01-11,2025-01-08,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00180,7419,7419,2,2,,2025-12-03,At Risk,1,19.0,USD,Pending,High,Account manager,Customer flagged for renewal follow-up
+REN00181,5916,5916,2,2,2025-02-02,2025-01-30,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00182,18801,18801,1,1,2025-12-31,2025-12-29,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00183,7104,7104,5,5,2025-04-15,2025-04-17,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00184,19487,19487,1,1,,2026-01-02,At Risk,1,0.0,USD,Pending,High,Account manager,Customer flagged for renewal follow-up
+REN00185,21741,21741,4,4,2026-01-20,2026-01-20,Renewed,1,99.0,USD,Paid,Low,Email,Renewal completed
+REN00186,16840,16840,1,1,2025-08-13,2025-08-11,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00187,3761,3761,1,1,2025-01-20,2025-01-22,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00188,474,474,1,2,2025-01-18,2025-01-16,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00189,23241,23241,3,3,2025-10-22,2025-10-21,Renewed,1,49.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00190,23144,23144,1,1,2025-08-26,2025-08-24,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00191,22257,22257,1,1,,2025-12-08,Cancelled,1,0.0,USD,Not Applicable,Low,Email,Subscription cancelled before renewal
+REN00192,23781,23781,1,1,,2026-01-04,Cancelled,1,0.0,USD,Not Applicable,Low,Sales representative,Subscription cancelled before renewal
+REN00193,3977,3977,3,3,2024-12-30,2025-01-01,Renewed,1,49.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00194,12561,12561,1,1,2025-01-20,2025-01-19,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00195,3680,3680,3,3,2025-01-29,2025-01-29,Renewed,1,49.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00196,4695,4695,2,2,2025-01-26,2025-01-24,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00197,18316,18316,2,2,2025-05-26,2025-05-23,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00198,5087,5087,6,6,2025-10-05,2025-10-03,Renewed,12,490.0,USD,Paid,Low,Account manager,Renewal completed
+REN00199,16946,16946,2,2,2026-01-25,2026-01-22,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00200,288,288,1,1,,2025-01-23,At Risk,1,0.0,USD,Pending,High,Sales representative,Customer flagged for renewal follow-up
+REN00201,9437,9437,5,5,2025-09-10,2025-09-11,Renewed,12,190.0,USD,Paid,Low,Account manager,Renewal completed
+REN00202,53,53,1,1,2025-01-06,2025-01-09,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00203,14542,14542,1,1,2025-03-15,2025-03-15,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00204,17982,17982,1,1,2026-01-03,2026-01-04,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00205,12323,12323,2,2,2025-12-16,2025-12-17,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00206,11080,11080,6,6,2025-10-04,2025-10-07,Renewed,12,490.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00207,17133,17133,1,1,2025-09-07,2025-09-08,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00208,9623,9623,1,1,2025-01-28,2025-01-29,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00209,18129,18129,2,2,2025-12-17,2025-12-20,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00210,14353,14353,2,2,2025-12-20,2025-12-21,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00211,2346,2346,1,1,2025-01-02,2025-01-05,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00212,12006,12006,1,1,2025-01-22,2025-01-20,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00213,11903,11903,5,5,2025-09-12,2025-09-11,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00214,17469,17469,1,1,2025-05-21,2025-05-19,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00215,16386,16386,2,2,2025-12-10,2025-12-07,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00216,19505,19505,3,3,2025-12-12,2025-12-12,Renewed,1,49.0,USD,Paid,Low,Email,Renewal completed
+REN00217,14665,14665,5,5,2026-02-28,2026-02-25,Renewed,12,190.0,USD,Paid,Low,Email,Renewal completed
+REN00218,9581,9581,2,2,2025-12-14,2025-12-11,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00219,7726,7726,1,1,2025-01-05,2025-01-02,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00220,10753,10753,1,1,,2025-01-16,Overdue,1,0.0,USD,Unpaid,High,Sales representative,Renewal due date passed without payment
+REN00221,1528,1528,3,3,2025-01-06,2025-01-08,Renewed,1,49.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00222,11765,11765,5,5,2025-12-11,2025-12-13,Renewed,12,190.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00223,21336,21336,1,1,2025-09-19,2025-09-16,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00224,12883,12883,1,1,2025-01-10,2025-01-08,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00225,3793,3793,5,5,2025-01-20,2025-01-21,Renewed,12,190.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00226,17688,17688,5,5,2026-09-06,2026-09-06,Renewed,12,190.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00227,1253,1253,3,3,2025-12-16,2025-12-14,Renewed,1,49.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00228,1575,1575,1,1,,2025-01-08,Overdue,1,0.0,USD,Unpaid,High,Email,Renewal due date passed without payment
+REN00229,20898,20898,3,3,2025-12-19,2025-12-17,Renewed,1,49.0,USD,Paid,Low,Account manager,Renewal completed
+REN00230,15324,15324,1,1,,2025-11-11,Failed,1,0.0,USD,Failed,High,Email,Renewal payment attempt failed
+REN00231,17816,17816,2,2,2026-01-25,2026-01-23,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00232,17229,17229,1,1,2025-05-09,2025-05-07,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00233,2284,2284,1,1,2025-01-11,2025-01-11,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00234,12643,12643,1,2,2025-01-28,2025-01-27,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00235,5643,5643,1,1,2025-01-31,2025-01-30,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00236,7081,7081,5,5,,2025-02-28,Pending,12,190.0,USD,Pending,Medium,Sales representative,Awaiting customer confirmation
+REN00237,24880,24880,2,2,2025-12-20,2025-12-21,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00238,3741,3741,5,5,2025-07-05,2025-07-04,Renewed,12,190.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00239,1266,1266,4,4,,2025-04-03,Pending,1,99.0,USD,Pending,Medium,Auto-renewal,Awaiting customer confirmation
+REN00240,21244,21244,1,1,2025-10-04,2025-10-04,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00241,8220,8220,3,3,,2025-12-09,Overdue,1,49.0,USD,Unpaid,High,Email,Renewal due date passed without payment
+REN00242,15175,15175,1,1,2025-02-14,2025-02-14,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00243,13503,13503,1,1,2025-10-21,2025-10-19,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00244,12433,12433,1,1,2025-01-11,2025-01-14,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00245,22294,22294,1,1,2025-08-15,2025-08-18,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00246,8401,8401,1,2,2025-01-01,2025-01-03,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00247,21107,21107,2,2,2025-12-22,2025-12-21,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00248,747,747,1,2,2025-01-16,2025-01-18,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00249,1934,1934,2,2,2025-01-13,2025-01-14,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00250,20628,20628,2,2,2025-12-11,2025-12-09,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00251,21529,21529,1,1,2025-11-06,2025-11-05,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00252,18857,18857,1,1,2025-05-15,2025-05-16,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00253,13825,13825,1,1,2025-09-02,2025-08-31,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00254,1715,1715,1,1,2025-01-13,2025-01-12,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00255,5717,5717,6,6,,2025-11-06,At Risk,12,490.0,USD,Pending,High,Account manager,Customer flagged for renewal follow-up
+REN00256,13646,13646,1,1,2025-03-16,2025-03-17,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00257,14212,14212,1,1,2025-11-13,2025-11-16,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00258,20155,20155,1,1,2026-01-29,2026-01-30,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00259,18230,18230,1,1,2025-06-25,2025-06-28,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00260,6718,6718,1,1,2025-01-09,2025-01-08,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00261,2610,2610,1,2,2025-01-24,2025-01-21,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00262,23483,23483,6,6,2026-10-30,2026-11-02,Renewed,12,490.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00263,3334,3334,1,1,2025-01-07,2025-01-08,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00264,18403,18403,1,1,2025-09-23,2025-09-21,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00265,13711,13711,1,1,,2025-11-02,Pending,1,0.0,USD,Pending,Medium,Auto-renewal,Awaiting customer confirmation
+REN00266,17335,17335,1,1,2025-06-10,2025-06-13,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00267,15490,15490,1,1,2025-08-23,2025-08-21,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00268,8761,8761,5,5,2025-07-07,2025-07-07,Renewed,12,190.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00269,20762,20762,1,1,,2025-10-21,Pending,1,0.0,USD,Pending,Medium,Account manager,Awaiting customer confirmation
+REN00270,7183,7183,1,1,2025-01-27,2025-01-28,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00271,24352,24352,1,1,,2025-05-09,Overdue,1,0.0,USD,Unpaid,High,Sales representative,Renewal due date passed without payment
+REN00272,18003,18003,1,1,2025-03-02,2025-03-03,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00273,7257,7257,1,1,2025-01-19,2025-01-17,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00274,5206,5206,1,1,2025-01-01,2025-01-03,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00275,22127,22127,1,1,2025-05-10,2025-05-08,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00276,11392,11392,5,5,2025-09-04,2025-09-04,Renewed,12,190.0,USD,Paid,Low,Account manager,Renewal completed
+REN00277,10123,10123,1,1,2025-01-06,2025-01-03,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00278,8584,8584,7,7,2025-12-02,2025-12-04,Renewed,12,990.0,USD,Paid,Low,Account manager,Renewal completed
+REN00279,24987,24987,2,2,2025-12-21,2025-12-19,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00280,12235,12235,3,3,2025-12-05,2025-12-03,Renewed,1,49.0,USD,Paid,Low,Account manager,Renewal completed
+REN00281,3399,3399,2,2,2025-01-07,2025-01-05,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00282,15516,15516,3,3,2025-12-18,2025-12-21,Renewed,1,49.0,USD,Paid,Low,Email,Renewal completed
+REN00283,10835,10835,1,1,2025-01-26,2025-01-28,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00284,21679,21679,1,1,2025-02-06,2025-02-05,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00285,11529,11529,3,3,2025-12-16,2025-12-19,Renewed,1,49.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00286,12250,12250,1,1,2025-01-03,2025-01-01,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00287,6941,6941,1,1,2025-01-24,2025-01-21,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00288,20644,20644,2,2,2025-12-23,2025-12-20,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00289,12652,12652,1,1,2025-01-06,2025-01-08,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00290,20630,20630,1,1,2025-03-05,2025-03-02,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00291,5682,5682,1,1,,2025-01-09,Pending,1,0.0,USD,Pending,Medium,Email,Awaiting customer confirmation
+REN00292,9778,9778,1,1,2025-01-06,2025-01-06,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00293,1158,1158,2,2,2025-01-16,2025-01-17,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00294,8179,8179,1,1,2025-01-25,2025-01-26,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00295,16983,16983,1,1,2025-11-02,2025-10-30,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00296,6145,6145,1,1,2025-01-30,2025-01-30,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00297,14437,14437,4,4,2025-12-20,2025-12-19,Renewed,1,99.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00298,24722,24722,5,5,2026-03-16,2026-03-13,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00299,10961,10961,1,1,2025-01-13,2025-01-12,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00300,8511,8511,1,1,2025-02-01,2025-01-30,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00301,16730,16730,1,1,2025-07-06,2025-07-09,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00302,9366,9366,6,6,2025-01-25,2025-01-28,Renewed,12,490.0,USD,Paid,Low,Account manager,Renewal completed
+REN00303,13029,13029,4,4,2025-12-13,2025-12-14,Renewed,1,99.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00304,3234,3234,2,2,2025-01-29,2025-01-28,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00305,18710,18710,2,2,2026-01-15,2026-01-13,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00306,376,376,6,6,2025-10-02,2025-10-02,Renewed,12,490.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00307,5660,5660,1,1,2025-01-23,2025-01-22,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00308,7017,7017,5,5,2025-02-03,2025-02-02,Renewed,12,190.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00309,23098,23098,5,5,2026-07-29,2026-07-27,Renewed,12,190.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00310,10098,10098,1,1,2025-01-03,2025-01-06,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00311,15965,15965,1,1,2025-11-19,2025-11-20,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00312,21347,21347,1,1,2026-01-25,2026-01-22,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00313,4197,4197,2,2,2025-01-21,2025-01-22,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00314,21706,21706,1,1,,2025-12-25,Failed,1,0.0,USD,Failed,High,Account manager,Renewal payment attempt failed
+REN00315,8605,8605,5,5,2025-08-07,2025-08-05,Renewed,12,190.0,USD,Paid,Low,Account manager,Renewal completed
+REN00316,21831,21831,2,2,2025-12-31,2025-12-28,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00317,1924,1924,2,2,2025-01-10,2025-01-13,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00318,16787,16787,1,1,2025-07-23,2025-07-23,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00319,19240,19240,2,2,,2025-12-30,At Risk,1,19.0,USD,Pending,High,Email,Customer flagged for renewal follow-up
+REN00320,18406,18406,2,2,2025-12-04,2025-12-05,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00321,7172,7172,1,1,2025-01-18,2025-01-15,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00322,19703,19703,1,1,2026-01-11,2026-01-13,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00323,10459,10459,2,2,2025-12-26,2025-12-28,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00324,557,557,1,2,2025-01-08,2025-01-06,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00325,13201,13201,1,1,2026-01-04,2026-01-05,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00326,11908,11908,1,1,2025-01-17,2025-01-17,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00327,19079,19079,2,2,2025-12-19,2025-12-22,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00328,18128,18128,2,2,2025-12-25,2025-12-25,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00329,21035,21035,1,1,,2025-06-20,At Risk,1,0.0,USD,Pending,High,Sales representative,Customer flagged for renewal follow-up
+REN00330,2786,2786,1,1,,2025-01-07,Pending,1,0.0,USD,Pending,Medium,Sales representative,Awaiting customer confirmation
+REN00331,813,813,1,1,2025-01-09,2025-01-12,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00332,21690,21690,5,5,2026-12-03,2026-12-06,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00333,3589,3589,1,1,2025-01-27,2025-01-28,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00334,23382,23382,2,2,2025-12-13,2025-12-12,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00335,6262,6262,5,5,2025-09-06,2025-09-05,Renewed,12,190.0,USD,Paid,Low,Email,Renewal completed
+REN00336,18340,18340,1,1,2025-09-12,2025-09-11,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00337,3590,3590,1,1,2025-01-05,2025-01-05,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00338,8073,8073,1,1,2025-01-22,2025-01-25,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00339,3172,3172,1,1,2025-01-26,2025-01-29,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00340,24597,24597,1,1,2025-03-25,2025-03-27,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00341,595,595,1,1,2025-01-15,2025-01-12,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00342,5819,5819,1,1,2025-01-06,2025-01-09,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00343,6177,6177,5,5,2025-06-17,2025-06-16,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00344,24926,24926,1,1,2025-11-21,2025-11-19,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00345,24278,24278,1,1,2025-12-14,2025-12-17,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00346,12521,12521,1,1,2024-12-31,2025-01-03,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00347,23212,23212,1,1,2025-10-14,2025-10-13,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00348,2064,2064,6,6,2025-12-07,2025-12-08,Renewed,12,490.0,USD,Paid,Low,Email,Renewal completed
+REN00349,20888,20888,2,2,2025-12-21,2025-12-24,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00350,14675,14675,1,2,,2025-03-22,Pending,1,19.0,USD,Pending,Medium,Sales representative,Awaiting customer confirmation
+REN00351,321,321,1,1,,2025-01-20,Pending,1,0.0,USD,Pending,Medium,Account manager,Awaiting customer confirmation
+REN00352,9702,9702,1,1,2025-01-31,2025-01-29,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00353,2505,2505,3,3,2025-12-12,2025-12-13,Renewed,1,49.0,USD,Paid,Low,Account manager,Renewal completed
+REN00354,24433,24433,1,1,2025-11-11,2025-11-11,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00355,16187,16187,2,2,,2025-12-14,Pending,1,19.0,USD,Pending,Medium,Email,Awaiting customer confirmation
+REN00356,9365,9365,2,2,2025-12-07,2025-12-10,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00357,19826,19826,1,1,2025-03-10,2025-03-12,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00358,17312,17312,1,1,2025-08-11,2025-08-14,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00359,3875,3875,1,1,2025-01-17,2025-01-15,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00360,21211,21211,5,5,2026-08-30,2026-08-27,Renewed,12,190.0,USD,Paid,Low,Account manager,Renewal completed
+REN00361,9929,9929,1,1,2025-01-13,2025-01-15,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00362,9084,9084,2,2,2025-12-08,2025-12-09,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00363,11547,11547,1,1,2025-01-27,2025-01-24,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00364,6244,6244,1,1,2025-01-28,2025-01-28,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00365,22384,22384,1,1,2025-09-30,2025-09-30,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00366,10897,10897,1,1,2025-01-28,2025-01-25,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00367,2472,2472,1,2,2025-01-06,2025-01-09,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00368,4402,4402,1,1,2025-01-08,2025-01-08,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00369,17570,17570,1,1,2025-06-16,2025-06-17,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00370,9667,9667,1,1,2025-01-20,2025-01-20,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00371,9019,9019,1,1,2025-01-22,2025-01-20,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00372,3330,3330,2,2,,2025-01-12,Overdue,1,19.0,USD,Unpaid,High,Customer portal,Renewal due date passed without payment
+REN00373,19663,19663,1,1,2026-01-03,2026-01-02,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00374,17197,17197,7,7,2026-02-01,2026-02-03,Renewed,12,990.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00375,18635,18635,1,1,2025-09-14,2025-09-11,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00376,18777,18777,6,6,2026-07-12,2026-07-12,Renewed,12,490.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00377,24313,24313,2,2,2025-12-11,2025-12-09,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00378,3331,3331,2,2,2025-02-16,2025-02-16,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00379,11503,11503,2,2,2025-11-30,2025-12-03,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00380,23842,23842,1,1,2025-09-19,2025-09-19,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00381,14809,14809,2,2,2025-12-10,2025-12-07,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00382,8224,8224,1,1,2025-01-05,2025-01-02,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00383,23938,23938,2,2,2025-12-24,2025-12-23,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00384,18723,18723,1,1,2025-08-01,2025-08-04,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00385,15254,15254,2,2,2025-10-14,2025-10-15,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00386,4552,4552,1,1,2025-01-20,2025-01-20,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00387,11526,11526,1,1,2025-01-16,2025-01-17,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00388,24732,24732,3,3,2025-12-17,2025-12-19,Renewed,1,49.0,USD,Paid,Low,Email,Renewal completed
+REN00389,17218,17218,2,2,2025-12-13,2025-12-16,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00390,23405,23405,5,5,2026-11-22,2026-11-20,Renewed,12,190.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00391,10677,10677,1,1,,2025-01-13,At Risk,1,0.0,USD,Pending,High,Sales representative,Customer flagged for renewal follow-up
+REN00392,16229,16229,2,2,2025-12-09,2025-12-12,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00393,2895,2895,1,1,2025-01-26,2025-01-29,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00394,17882,17882,3,3,2025-12-19,2025-12-20,Renewed,1,49.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00395,107,107,1,2,2025-01-23,2025-01-21,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00396,561,561,1,1,2025-01-26,2025-01-24,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00397,9221,9221,1,1,,2025-01-01,Failed,1,0.0,USD,Failed,High,Customer portal,Renewal payment attempt failed
+REN00398,14376,14376,1,1,2025-02-21,2025-02-19,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00399,13770,13770,1,1,2025-12-23,2025-12-26,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00400,16672,16672,5,5,2026-01-25,2026-01-24,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00401,5550,5550,1,1,2025-01-27,2025-01-30,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00402,6338,6338,5,5,,2025-07-19,Pending,12,190.0,USD,Pending,Medium,Sales representative,Awaiting customer confirmation
+REN00403,2480,2480,1,1,2025-01-08,2025-01-09,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00404,20933,20933,2,2,2026-01-20,2026-01-18,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00405,18329,18329,5,5,2026-03-11,2026-03-09,Renewed,12,190.0,USD,Paid,Low,Email,Renewal completed
+REN00406,9650,9650,3,3,2025-01-13,2025-01-10,Renewed,1,49.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00407,17439,17439,1,1,2025-04-02,2025-04-05,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00408,15967,15967,1,1,2026-01-12,2026-01-12,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00409,14119,14119,5,5,2026-10-02,2026-10-05,Renewed,12,190.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00410,10189,10189,1,1,2025-01-12,2025-01-11,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00411,14312,14312,1,1,,2025-09-18,Pending,1,0.0,USD,Pending,Medium,Email,Awaiting customer confirmation
+REN00412,22611,22611,1,1,2025-10-11,2025-10-09,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00413,4673,4673,1,1,2025-01-09,2025-01-07,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00414,1861,1861,4,4,,2025-12-06,Pending,1,99.0,USD,Pending,Medium,Customer portal,Awaiting customer confirmation
+REN00415,9111,9111,6,6,2025-02-07,2025-02-04,Renewed,12,490.0,USD,Paid,Low,Account manager,Renewal completed
+REN00416,22369,22369,4,4,2025-12-20,2025-12-18,Renewed,1,99.0,USD,Paid,Low,Email,Renewal completed
+REN00417,4523,4523,1,1,,2025-01-08,Overdue,1,0.0,USD,Unpaid,High,Customer portal,Renewal due date passed without payment
+REN00418,7098,7098,1,1,2025-01-12,2025-01-15,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00419,211,211,1,1,2025-01-16,2025-01-19,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00420,2085,2085,4,4,2025-12-15,2025-12-16,Renewed,1,99.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00421,19239,19239,2,2,,2025-12-04,Overdue,1,19.0,USD,Unpaid,High,Email,Renewal due date passed without payment
+REN00422,16534,16534,3,3,2025-12-15,2025-12-17,Renewed,1,49.0,USD,Paid,Low,Account manager,Renewal completed
+REN00423,13621,13621,1,1,2025-08-21,2025-08-23,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00424,551,551,2,2,2025-12-08,2025-12-08,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00425,3180,3180,2,2,2025-01-28,2025-01-26,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00426,907,907,1,1,,2025-01-27,Pending,1,0.0,USD,Pending,Medium,Account manager,Awaiting customer confirmation
+REN00427,10182,10182,2,2,2025-12-04,2025-12-02,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00428,11771,11771,2,2,2025-12-17,2025-12-18,Renewed,1,19.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00429,20465,20465,1,1,2025-12-23,2025-12-20,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00430,11066,11066,5,5,2025-09-24,2025-09-27,Renewed,12,190.0,USD,Paid,Low,Account manager,Renewal completed
+REN00431,12124,12124,1,1,2025-01-10,2025-01-10,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00432,17784,17784,4,4,2025-12-31,2025-12-30,Renewed,1,99.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00433,24081,24081,1,1,2025-03-05,2025-03-06,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00434,10322,10322,1,1,2025-01-01,2025-01-01,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00435,15032,15032,5,5,2026-12-02,2026-12-03,Renewed,12,190.0,USD,Paid,Low,Email,Renewal completed
+REN00436,14281,14281,1,1,2026-01-05,2026-01-05,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00437,20181,20181,2,2,2025-09-05,2025-09-05,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00438,1001,1001,5,5,2025-04-08,2025-04-07,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00439,16142,16142,1,1,2025-10-16,2025-10-18,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00440,14920,14920,1,1,2025-03-13,2025-03-14,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00441,20585,20585,2,2,2025-07-16,2025-07-15,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00442,6020,6020,2,2,2025-12-05,2025-12-03,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00443,6304,6304,1,1,2025-01-27,2025-01-30,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00444,22859,22859,2,2,2025-12-06,2025-12-08,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00445,23065,23065,1,1,2026-01-18,2026-01-20,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00446,12287,12287,1,1,2025-01-13,2025-01-13,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00447,22106,22106,1,1,2025-06-02,2025-06-02,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00448,22501,22501,1,1,2025-09-28,2025-09-27,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00449,4060,4060,2,2,,2025-01-08,Cancelled,1,19.0,USD,Not Applicable,Low,Sales representative,Subscription cancelled before renewal
+REN00450,18998,18998,1,1,2025-03-12,2025-03-10,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00451,12469,12469,4,4,2025-01-20,2025-01-23,Renewed,1,99.0,USD,Paid,Low,Email,Renewal completed
+REN00452,743,743,3,3,2025-12-25,2025-12-27,Renewed,1,49.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00453,21861,21861,1,1,2025-07-21,2025-07-19,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00454,601,601,1,1,2025-01-22,2025-01-24,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00455,12970,12970,6,6,2025-06-16,2025-06-17,Renewed,12,490.0,USD,Paid,Low,Account manager,Renewal completed
+REN00456,648,648,5,5,2025-04-27,2025-04-30,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00457,3515,3515,5,5,2025-12-23,2025-12-21,Renewed,12,190.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00458,4023,4023,1,1,2025-01-15,2025-01-18,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00459,10959,10959,1,1,2025-01-17,2025-01-20,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00460,2476,2476,2,2,2025-12-22,2025-12-25,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00461,22645,22645,1,1,2025-11-12,2025-11-10,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00462,651,651,1,1,2025-01-12,2025-01-14,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00463,16486,16486,2,2,2025-12-19,2025-12-16,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00464,7342,7342,1,2,2025-01-25,2025-01-26,Renewed,1,19.0,USD,Paid,Low,Email,Renewal completed
+REN00465,100,100,5,5,2025-10-26,2025-10-23,Renewed,12,190.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00466,1379,1379,1,1,2025-01-24,2025-01-23,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00467,6726,6726,2,2,2025-12-21,2025-12-18,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00468,22435,22435,1,1,2026-01-14,2026-01-17,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00469,12827,12827,2,2,2025-01-08,2025-01-06,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00470,17468,17468,1,1,2025-10-21,2025-10-23,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00471,16691,16691,6,6,2026-05-01,2026-04-30,Renewed,12,490.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00472,14936,14936,1,1,2025-09-06,2025-09-03,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00473,5161,5161,1,1,2025-01-29,2025-01-30,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00474,24155,24155,1,1,2025-05-18,2025-05-18,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00475,18680,18680,3,3,2025-12-15,2025-12-12,Renewed,1,49.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00476,21151,21151,1,1,,2025-02-28,At Risk,1,0.0,USD,Pending,High,Account manager,Customer flagged for renewal follow-up
+REN00477,8959,8959,1,1,2025-01-18,2025-01-15,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00478,7389,7389,1,1,2025-02-01,2025-01-30,Renewed,1,0.0,USD,Paid,Low,Auto-renewal,Renewal completed
+REN00479,1670,1670,1,1,2025-01-02,2025-01-01,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00480,22322,22322,1,2,,2025-02-12,At Risk,1,19.0,USD,Pending,High,Email,Customer flagged for renewal follow-up
+REN00481,15218,15218,1,1,2025-09-30,2025-10-02,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00482,9628,9628,1,2,2025-01-15,2025-01-13,Renewed,1,19.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00483,8086,8086,1,1,2025-01-16,2025-01-15,Renewed,1,0.0,USD,Paid,Low,Account manager,Renewal completed
+REN00484,16681,16681,1,2,2025-07-18,2025-07-19,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00485,9228,9228,1,1,2025-01-23,2025-01-21,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00486,16179,16179,1,1,2025-12-05,2025-12-06,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00487,1829,1829,1,1,,2025-01-11,Pending,1,0.0,USD,Pending,Medium,Auto-renewal,Awaiting customer confirmation
+REN00488,13760,13760,1,1,2025-02-22,2025-02-20,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00489,6242,6242,1,1,,2025-01-05,Overdue,1,0.0,USD,Unpaid,High,Sales representative,Renewal due date passed without payment
+REN00490,15853,15853,1,1,2025-07-13,2025-07-14,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00491,19218,19218,2,2,2025-12-05,2025-12-03,Renewed,1,19.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00492,18551,18551,5,5,2026-12-03,2026-12-01,Renewed,12,190.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00493,8695,8695,1,1,2025-01-12,2025-01-15,Renewed,1,0.0,USD,Paid,Low,Email,Renewal completed
+REN00494,4433,4433,1,1,2025-01-23,2025-01-24,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00495,12725,12725,2,2,2025-09-09,2025-09-06,Renewed,1,19.0,USD,Paid,Low,Account manager,Renewal completed
+REN00496,19780,19780,1,1,2025-02-28,2025-03-01,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00497,9978,9978,3,3,,2025-12-16,Failed,1,49.0,USD,Failed,High,Sales representative,Renewal payment attempt failed
+REN00498,8123,8123,1,1,2025-01-25,2025-01-26,Renewed,1,0.0,USD,Paid,Low,Customer portal,Renewal completed
+REN00499,6912,6912,1,1,2025-01-17,2025-01-18,Renewed,1,0.0,USD,Paid,Low,Sales representative,Renewal completed
+REN00500,24602,24602,5,5,2026-11-26,2026-11-29,Renewed,12,190.0,USD,Paid,Low,Account manager,Renewal completed
